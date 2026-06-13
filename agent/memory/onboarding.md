@@ -1,8 +1,8 @@
 # Onboarding status (maintained by the system — do not edit)
 
-Guide: default-seeding — 1 / 23 questions answered.
+Guide: default-seeding — 2 / 23 questions answered.
 
-- [ ] About you — 1/4 — user/profile/about.md
+- [ ] About you — 2/4 — user/profile/about.md
 - [ ] Your work — 0/3 — user/profile/work.md
 - [ ] Goals — 0/3 — user/profile/goals.md
 - [ ] Key people — 0/3 — user/people/key-people.md
